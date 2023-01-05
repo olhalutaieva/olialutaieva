@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @olialutaieva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🖖🏽 Hi, I’m Olha Lutaieva!
+- 👀 I’m interested in coding for sure! And a few other thing like music and table tennis
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on some exciting projects
 - 📫 How to reach me: olhalutaieva@gmail.com
 
 <!---
