@@ -1,4 +1,4 @@
-- 🖖🏽 Hi, I’m Olha Lutaieva! But also you can call me Olia
+- 🖖🏽 Hi, I’m Olha Lutaieva!
 - 👀 I’m interested in coding for sure! And a few other thing like music and table tennis
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on some exciting projects
